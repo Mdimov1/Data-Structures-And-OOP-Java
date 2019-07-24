@@ -36,9 +36,6 @@ ERROR!
 ERROR!
 */
 
-
-package edu.softuni.polymorphism.DemoTest;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
