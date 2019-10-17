@@ -1,4 +1,4 @@
-package edu.softuni.polymorphism.Telephony;
+package edu.polymorphism.Telephony;
 
 public class Smartphone implements Call, Browse{
     private String phoneNumber;
