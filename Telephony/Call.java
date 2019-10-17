@@ -1,4 +1,4 @@
-package edu.softuni.polymorphism.Telephony;
+package edu.polymorphism.Telephony;
 
 public interface Call {
     String callingOtherPhones();
